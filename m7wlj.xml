@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <project name="ebizome/android_device_htc_m7wlj" path="device/htc/m7wlj" remote="github" />
-  <project name="ebizome/android_device_htc_m7-common" path="device/htc/m7-common" remote="github" />
+  <project name="ebizome/android_device_htc_m7-common" path="device/htc/m7-common" remote="github" revision="workaround/cm-14.1" />
   <project name="LineageOS/android_device_htc_msm8960-common" path="device/htc/msm8960-common" remote="github" />
   <project name="LineageOS/android_kernel_htc_msm8960" path="kernel/htc/msm8960" remote="github" />
 </manifest>
